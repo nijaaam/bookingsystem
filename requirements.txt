@@ -35,7 +35,7 @@ python-dateutil==2.6.0
 pytz==2016.10
 PyVirtualDisplay==0.2.1
 pyxdg==0.25
-reportlab==3.0
+reportlab==3.5.55
 requests==2.12.5
 requests-oauthlib==0.7.0
 selenium==3.0.2
